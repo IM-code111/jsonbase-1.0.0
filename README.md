@@ -2,7 +2,7 @@
 ## Description:
 ### jsonbase is a simple database module
 ### you can use it to store a small amount of data
-### but that doesn't mean that you can store a big amount of data
+### but that doesn't mean that you can't store a big amount of data
 
 #
 ![Preview](https://i.ibb.co/tXQkprn/image.png)
